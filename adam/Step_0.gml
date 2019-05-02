@@ -1,5 +1,5 @@
 /// @description Insert description here
-// author: tekdogan
+// author: tekdoganxd
 
 
 //if( HP <= 0)
