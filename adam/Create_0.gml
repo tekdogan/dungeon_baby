@@ -1,5 +1,5 @@
 /// @description Insert description here
-// author: tekdogan
+// author: tekdoganxdddd
 
 walkingSpeed = 2;
 
